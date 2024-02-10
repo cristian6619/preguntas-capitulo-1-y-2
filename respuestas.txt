@@ -282,3 +282,11 @@ Preguntas de lectura: Capítulo 2
     Un protocolo se considera "independiente de la tecnología" porque está diseñado para ser una especificación estándar que describe las reglas y el formato de las comunicaciones entre dispositivos, sin depender de la implementación técnica subyacente. Esto significa que el protocolo define cómo deben ser intercambiados los datos y cómo deben gestionarse las diferentes operaciones de red, pero no dicta los detalles específicos de la tecnología o hardware utilizados para lograr estas operaciones.
     
     Un protocolo independiente de la tecnología permite la interoperabilidad entre dispositivos y sistemas de diferentes fabricantes, siempre y cuando sigan la misma especificación de protocolo. Esta característica es esencial para lograr la comunicación efectiva en entornos heterogéneos, donde coexisten diversos tipos de dispositivos y tecnologías.
+
+6. Consultar y explicar brevemente qué es una Unidad de Datos del Protocolo (PDU).
+
+    La Unidad de Datos del Protocolo (PDU) es un bloque de información esencial en la comunicación de red que se transmite entre dispositivos. La PDU lleva tanto datos como encabezados de control necesarios para la entrega adecuada de la información. Su tamaño y contenido varían según el nivel del modelo OSI en el que se encuentre.
+
+    En la Capa de Enlace de Datos (Capa 2), la PDU se llama trama y contiene direcciones físicas, información de control y datos. En la Capa de Red (Capa 3), la PDU se denomina paquete e incluye direcciones lógicas, información de enrutamiento y fragmentación si es necesaria. La Capa de Transporte (Capa 4) utiliza la PDU llamada segmento, que incorpora información de control de flujo y secuencia, junto con los datos.
+
+    En las capas superiores, como Sesión (Capa 5), Presentación (Capa 6) y Aplicación (Capa 7), la PDU es simplemente llamada datos. Aquí, la información se procesa y presenta en el formato adecuado para las aplicaciones y servicios. En resumen, la PDU facilita la transmisión de datos a través de la red, adaptándose a las necesidades específicas de cada capa del modelo OSI.
