@@ -189,3 +189,10 @@ Factores internos:
         * Soporte a la Expansión de Internet: Ambos niveles de proveedores son vitales para la expansión y desarrollo continuo de Internet. Proporcionan la infraestructura necesaria para satisfacer la creciente demanda de conectividad global.
 
     En resumen, la interacción entre proveedores de Nivel-1 y Nivel-2 es esencial para la conectividad global, facilitando la transmisión eficiente de datos y contribuyendo al funcionamiento y expansión de Internet a nivel mundial.
+
+12. Reflexiona sobre el papel crucial de los proveedores de Internet en la infraestructura digital global y cómo su gestión y regulación pueden impactar en la equidad y la eficiencia del acceso a Internet.
+
+    Los proveedores de Internet (ISP) juegan un papel esencial en la infraestructura digital global, facilitando la conectividad y el acceso a la información. La gestión y regulación de estos proveedores impactan significativamente en la equidad y eficiencia del acceso a Internet.
+    En términos de equidad, una regulación efectiva puede promover el acceso universal, tarifas asequibles, neutralidad de la red y programas de inclusión digital. Esto asegura que el acceso a Internet no esté limitado por barreras económicas y que se fomente la participación inclusiva.
+    En cuanto a la eficiencia, la regulación que fomente la competencia, la innovación y el despliegue de tecnologías avanzadas mejora la calidad del servicio y la experiencia del usuario. Abordar cuestiones de seguridad y privacidad también es crucial para mantener la eficiencia y confiabilidad.
+    Desafíos incluyen encontrar un equilibrio adecuado en la regulación, adaptarse a cambios tecnológicos y garantizar la participación y transparencia en la toma de decisiones regulatorias. Un enfoque equitativo en la regulación puede contribuir a una infraestructura digital global inclusiva, accesible y eficiente para todos.
