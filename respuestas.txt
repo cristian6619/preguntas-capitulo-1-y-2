@@ -271,3 +271,8 @@ Preguntas de lectura: Capítulo 2
         * Accesible al público en general.
         * Ofrece servicios, recursos y comunicación a nivel mundial.
 
+4. Describir la diferencia entre Tarjeta de interfaz de red (NIC), puerto físico e interfaz de red.
+
+    * La NIC es un componente de hardware en la computadora host.
+    * El puerto físico es el conector en un dispositivo de red donde se conecta físicamente el cable de red.
+    * La interfaz de red se refiere a los puertos especializados en dispositivos de internetworking, como routers, que permiten la conexión con redes individuales.
