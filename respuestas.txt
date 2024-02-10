@@ -32,3 +32,10 @@ Factores internos:
     *Tamaño del mensaje: Los mensajes grandes pueden enfrentar interrupciones o demoras en diferentes puntos de la red, la gestión del tamaño del mensaje es esencial para garantizar una transmisión eficiente.
     *Complejidad del mensaje: Mensajes complejos pueden ser más propensos a malinterpretaciones en medio de los procesos de recepción de alguno de los dispositivos o nodos, la simplicidad y claridad en la comunicación contribuyen a una comprensión más efectiva.
     *Importancia del mensaje: La relevancia y la prioridad del mensaje también son factores internos clave, mensajes importantes deben recibir una atención especial para asegurar una comprensión precisa.
+
+3. Identificar los componentes clave de cualquier red de datos y describir su funcionamiento.
+
+    a. Reglas y acuerdos: Son el conjunto de protocolos y normas que regulan la forma en que los dispositivos se comunican entre sí en la red; y su funcionamiento establece el formato de los mensajes, las reglas de enrutamiento, la detección y corrección de errores, y otros aspectos esenciales para una comunicación efectiva.
+    b. Mensajes o unidades de información: Datos que se envían entre dispositivos en la red, y su funcionamiento se basa en que los mensajes contienen información que se transmite de un dispositivo a otro, siguiendo las reglas y protocolos establecidos. 
+    c. Medio de interconexión: Es el medio a través del cual los mensajes viajan de un dispositivo a otro, esto incluye cables físicos (fibra óptica, par trenzado, coaxial) o conexiones inalámbricas que sirven como canales para la transmisión de mensajes entre dispositivos en la red.
+    d. Dispositivos de la red: Son los equipos que forman parte de la red y que participan en el intercambio de los mensajes. Estos dispositivos, como routers, switches, concentradores y otros, dirigen y facilitan el flujo de mensajes según las reglas establecidas, cada dispositivo tiene una función específica para garantizar la conectividad y la transferencia eficiente de datos.
