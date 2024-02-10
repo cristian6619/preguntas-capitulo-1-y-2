@@ -126,3 +126,24 @@ Factores internos:
         * Evitar interrupciones y pérdida de datos.
         * Optimización de recursos
     En resumen, la calidad del servicio en una red de datos es esencial para adaptarse a las crecientes expectativas de los usuarios, especialmente en el contexto de nuevas aplicaciones que demandan una experiencia de alta calidad. Garantizar una transmisión fluida y consistente es fundamental para la satisfacción del usuario y el rendimiento óptimo de la red.
+
+9. Investiga sobre qué son los proveedores de Internet de Nivel-1 (Tier-1) y Nivel-2 (Tier-2), y cómo se diferencian en términos de infraestructura, alcance y relaciones comerciales.
+
+    Los proveedores de Internet, también conocidos como ISP (Proveedor de Servicios de Internet), se clasifican en diferentes niveles (Tier) según la escala y alcance de su infraestructura. Los términos "Tier-1" y "Tier-2" se utilizan comúnmente para distinguir entre proveedores con diferentes niveles de conectividad y capacidad en la red global.
+
+    Proveedor de Internet de Nivel-1 (Tier-1):
+        a. Infraestructura: Los proveedores de Internet de Nivel-1 son aquellos que poseen y operan su propia infraestructura global de redes de fibra óptica a nivel internacional. Tienen conexiones directas a la mayoría de las redes globales y a otros proveedores de Nivel-1.
+        b. Alcance: Tienen un alcance global y pueden enrutar el tráfico directamente a través de su propia infraestructura, sin depender de terceros proveedores para llegar a destinos internacionales.
+        c. Relaciones Comerciales: Los proveedores de Nivel-1 se caracterizan por no tener que pagar por el tráfico que intercambian con otros proveedores de Nivel-1. Esto se conoce como peering. Establecen acuerdos de peering directo con otros Nivel-1 para intercambiar tráfico de manera eficiente.
+        Ejemplos: Algunos ejemplos de proveedores de Internet de Nivel-1 incluyen AT&T, Verizon Business, Level 3 (ahora parte de CenturyLink), y NTT Communications.
+
+    Proveedor de Internet de Nivel-2 (Tier-2):
+        a. Infraestructura: Los proveedores de Internet de Nivel-2 son proveedores regionales o nacionales que pueden tener una infraestructura significativa pero no poseen redes globales a la escala de los proveedores de Nivel-1.
+        b. Alcance: Tienen un alcance más limitado en comparación con los proveedores de Nivel-1 y pueden depender de acuerdos de tránsito para llegar a destinos fuera de su red principal.
+        c. Relaciones Comerciales: Los proveedores de Nivel-2 pueden tener que pagar a los proveedores de Nivel-1 por el tráfico que envían a través de sus redes. También pueden participar en acuerdos de peering, pero no tienen la misma capacidad de negociación que los proveedores de Nivel-1.
+        Ejemplos: Ejemplos de proveedores de Internet de Nivel-2 incluyen Cogent, XO Communications, y Tata Communications.
+
+    Diferencias Clave:
+        * Independencia Global: Los proveedores de Nivel-1 son independientes y no dependen de otros para acceder a destinos globales. Los proveedores de Nivel-2 pueden depender de acuerdos de tránsito con proveedores de Nivel-1 para conectividad global.
+        * Peering vs. Tránsito: Los proveedores de Nivel-1 se peering directamente entre sí sin pagar por el tráfico intercambiado. Los proveedores de Nivel-2 pueden tener que pagar por el tráfico que envían a través de redes de Nivel-1.
+        * Alcance Geográfico: Los proveedores de Nivel-1 tienen un alcance global, mientras que los proveedores de Nivel-2 pueden tener un alcance más regional o nacional.
