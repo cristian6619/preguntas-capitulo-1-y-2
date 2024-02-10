@@ -64,7 +64,6 @@ Factores internos:
         * Diseño Robusto: Toda la arquitectura de la red se construye con robustez, lo que significa que puede resistir y recuperarse de posibles fallas sin comprometer la funcionalidad general.
         * Mantenimiento de la comunicación: A pesar de las fallas, la red se asegura de mantener la comunicación entre los extremos.
 
-
     B. Escalabilidad, 
         * Expansión Rápida: La red tiene la capacidad de crecer de manera rápida y eficiente para acomodar a nuevos usuarios y aplicaciones sin afectar el servicio para los usuarios existentes.
         * Diseño Jerárquico en Capas: La infraestructura física y la arquitectura lógica de la red están organizadas en capas jerárquicas donde cada capa tiene funciones específicas que permiten la integración de nuevos usuarios y proveedores de servicios sin causar interrupciones en la red.
@@ -73,11 +72,11 @@ Factores internos:
         * Identificación y Localización Eficientes: La red utiliza nuevos métodos para identificar y localizar a usuarios individuales dentro de la internetwork.
 
     C. Calidad del servicio,
-    * Expectativas Elevadas: Las nuevas aplicaciones generan expectativas más altas para la calidad de los servicios. Los usuarios esperan una experiencia equiparable a la de una interacción en persona, especialmente en transmisiones de voz y video en vivo.
-    * Necesidad de Calidad Consistente: Las transmisiones de voz y video en vivo requieren un nivel de calidad constante y una entrega ininterrumpida. A diferencia de las aplicaciones informáticas tradicionales, donde cierta variabilidad puede ser tolerada,
-    * Comparación con Presentación en Persona: La calidad de estos servicios se mide con la experiencia de presenciar una presentación de audio y video en persona.
-    * Diseño Tradicional de Redes de Voz y Video: Las redes tradicionales de voz y video están diseñadas para admitir un único tipo de transmisión y, por lo tanto, pueden producir un nivel aceptable de calidad, sin embargo, con la evolución hacia una red convergente, se requiere un ajuste en el enfoque de diseño.
-    * Adaptación para Redes Convergentes: La transición hacia una red convergente, donde voz, video y datos comparten la misma infraestructura, demanda cambios en la manera en que se diseñan e implementan las arquitecturas de red
+        * Expectativas Elevadas: Las nuevas aplicaciones generan expectativas más altas para la calidad de los servicios. Los usuarios esperan una experiencia equiparable a la de una interacción en persona, especialmente en transmisiones de voz y video en vivo.
+        * Necesidad de Calidad Consistente: Las transmisiones de voz y video en vivo requieren un nivel de calidad constante y una entrega ininterrumpida. A diferencia de las aplicaciones informáticas tradicionales, donde cierta variabilidad puede ser tolerada,
+        * Comparación con Presentación en Persona: La calidad de estos servicios se mide con la experiencia de presenciar una presentación de audio y video en persona.
+        * Diseño Tradicional de Redes de Voz y Video: Las redes tradicionales de voz y video están diseñadas para admitir un único tipo de transmisión y, por lo tanto, pueden producir un nivel aceptable de calidad, sin embargo, con la evolución hacia una red convergente, se requiere un ajuste en el enfoque de diseño.
+        * Adaptación para Redes Convergentes: La transición hacia una red convergente, donde voz, video y datos comparten la misma infraestructura, demanda cambios en la manera en que se diseñan e implementan las arquitecturas de red
 
     D. Seguridad. Mostrar sus respectivos ejemplos. 
         * Cambio en los Requerimientos de Seguridad: A medida que Internet evolucionó de una red controlada a un medio ampliamente accesible, los requerimientos de seguridad cambiaron, el aumento en la transmisión de comunicaciones personales y empresariales generó expectativas más altas en términos de privacidad y seguridad.
@@ -90,3 +89,17 @@ Factores internos:
         * Firewalls: Dispositivos que controlan y monitorean el tráfico entre redes, permitiendo o bloqueando ciertas comunicaciones.
         * Sistemas de Detección de Intrusiones (IDS): Monitorean y responden a comportamientos anómalos en la red, identificando posibles ataques.
         * Cifrado de Datos: Transforma la información legible en un formato codificado, asegurando que solo aquellos con la clave correcta puedan acceder a la información.
+
+6. Investigar qué son las redes orientadas y no orientadas a la conexión.
+
+    Redes Orientadas a la Conexión: Definición: En una red orientada a la conexión, se establece una conexión antes de que los nodos comiencen a intercambiar datos. Este proceso implica una fase de establecimiento de conexión, una fase de transmisión de datos y, finalmente, una fase de liberación de conexión.
+    Características: 
+        * Establecimiento de Conexión: Antes de enviar datos, se establece una conexión explícita entre los nodos.
+        * Confiable: La transmisión de datos se realiza de manera más confiable, ya que hay un control más estricto sobre la secuencia y la integridad de los datos.
+        Ejemplo: La conexión telefónica tradicional es un ejemplo de red orientada a la conexión, donde se establece una llamada antes de hablar.
+
+    Redes No Orientadas a la Conexión:Definición: En una red no orientada a la conexión, los nodos pueden enviar datos sin la necesidad de establecer una conexión previa. Cada paquete de datos se envía de manera independiente, y no se garantiza un orden específico de entrega.
+    Características: 
+        * Sin Establecimiento de Conexión Explícita: No hay una fase de  establecimiento de conexión antes de enviar datos.
+        * Menos Control sobre la Secuencia de Datos: Los datos pueden llegar en un orden diferente al que se enviaron debido a rutas variables.
+        Ejemplo: Internet es un ejemplo de red no orientada a la conexión, ya que los datos se dividen en paquetes y se envían independientemente, y pueden seguir rutas diferentes hacia su destino.
