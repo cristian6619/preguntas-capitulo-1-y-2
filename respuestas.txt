@@ -308,3 +308,20 @@ Preguntas de lectura: Capítulo 2
     Por otro lado, los modelos de referencia, como el conocido modelo OSI, adoptan un enfoque más abstracto y general, estos modelos no están diseñados para especificar detalles de implementación, sino para proporcionar una guía general que mantenga consistencia entre diferentes tipos de protocolos y servicios de red, el modelo OSI, con sus siete capas, ofrece una estructura amplia para comprender funciones y procesos en una red, sin entrar en detalles específicos de cómo se implementan los protocolos en cada capa.
 
     La principal diferencia radica en el nivel de detalle que ofrecen, mientras que los modelos de protocolo se sumergen en la implementación específica de una suite de protocolos, los modelos de referencia se mantienen en un nivel más abstracto, facilitando la comprensión general de las funciones y procesos de una red, ambos enfoques son valiosos en el diseño y análisis de redes, ya que cada uno cumple con propósitos específicos según el grado de detalle necesario en una situación dada.
+
+9. Describir la función de cada capa en los dos modelos de red: TCP/IP y OSI.
+
+    Modelo TCP/IP:
+        * Capa de Acceso a la Red (Enlace): En esta capa, se define cómo los datos son encapsulados para ser transmitidos a través de los medios físicos de red. Además, incluye la dirección física (MAC) para identificar dispositivos en la misma red local.
+        * Capa de Internet: Esta capa, comúnmente asociada con el Protocolo de Internet (IP), se ocupa del enrutamiento y la determinación de la mejor ruta para que los datos lleguen desde el origen hasta el destino a través de la internetwork.
+        * Capa de Transporte: Aquí, se gestionan las conversaciones individuales entre aplicaciones. El Protocolo de Control de Transmisión (TCP) y el Protocolo de Datagrama de Usuario (UDP) son protocolos comunes en esta capa, proporcionando servicios de entrega confiable o no confiable, respectivamente.
+        * Capa de Aplicación: La capa superior se enfoca en las aplicaciones y servicios de usuario final. Incluye protocolos como HTTP para la transferencia de hipertexto, SMTP para el correo electrónico, y otros que permiten la interacción entre las aplicaciones y la red.
+
+    Modelo OSI:
+        * Capa Física: Se encarga de la transmisión de bits a través de medios físicos, definiendo aspectos mecánicos y eléctricos para la conexión de dispositivos.
+        * Capa de Enlace de Datos: Aquí, se gestionan los errores en la capa física y se proporciona un flujo de datos libre de errores a la capa de red. Además, se abordan temas como el control de acceso al medio y las direcciones físicas (MAC).
+        * Capa de Red: Similar a la capa de Internet en el modelo TCP/IP, se ocupa del enrutamiento y la selección de la mejor ruta para la transmisión de datos entre dispositivos finales en diferentes redes.
+        * Capa de Transporte: Al igual que en el modelo TCP/IP, se encarga de la gestión de las conversaciones entre aplicaciones, proporcionando servicios de entrega confiable o no confiable.
+        * Capa de Sesión: Gestiona el diálogo y la conexión entre dos dispositivos, asegurando una comunicación coherente y organizada.
+        * Capa de Presentación: Su función es traducir los datos entre la aplicación y la red, asegurando que la información sea entendida y compatible en ambos extremos.
+        * Capa de Aplicación: Similar a la capa correspondiente en el modelo TCP/IP, se centra en las aplicaciones y servicios de usuario final.
