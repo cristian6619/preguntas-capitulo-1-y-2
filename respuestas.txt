@@ -147,3 +147,24 @@ Factores internos:
         * Independencia Global: Los proveedores de Nivel-1 son independientes y no dependen de otros para acceder a destinos globales. Los proveedores de Nivel-2 pueden depender de acuerdos de tránsito con proveedores de Nivel-1 para conectividad global.
         * Peering vs. Tránsito: Los proveedores de Nivel-1 se peering directamente entre sí sin pagar por el tráfico intercambiado. Los proveedores de Nivel-2 pueden tener que pagar por el tráfico que envían a través de redes de Nivel-1.
         * Alcance Geográfico: Los proveedores de Nivel-1 tienen un alcance global, mientras que los proveedores de Nivel-2 pueden tener un alcance más regional o nacional.
+
+10. Identifica al menos tres proveedores de Internet de nivel mundial y clasifícalos en Nivel-1 (Tier-1) o Nivel-2 (Tier-2) según su posición en la jerarquía de la red. Identifica al menos 2 proveedores de internet en Colombia.
+    
+    Proveedores de Internet de Nivel Mundial.
+        * AT&T: 
+            - Clasificación: Nivel-1 (Tier-1)
+            - Comentario: AT&T es un proveedor de nivel mundial que posee una infraestructura global de redes de fibra óptica y tiene conexiones directas a muchas otras redes globales. Opera a escala internacional y es considerado un proveedor de Nivel-1.
+        * Verizon Business:
+            - Clasificación: Nivel-1 (Tier-1)
+            - Comentario: Verizon Business es otro proveedor de nivel mundial con una infraestructura global y conexiones directas a varias redes importantes. Al tener su propia infraestructura a nivel internacional, se clasifica como Nivel-1.
+        * NTT Communications: 
+            - Clasificación: Nivel-1 (Tier-1)
+            - Comentario: NTT Communications es un proveedor de telecomunicaciones con una presencia significativa a nivel mundial. Posee y opera una extensa red global, lo que lo coloca en la categoría de Nivel-1
+
+    Proveedores de Internet en Colombia.
+        * Claro Colombia:
+            - Clasificación: Puede clasificarse como Nivel-2 (Tier-2).
+            - Comentario: Claro Colombia es un proveedor de servicios de telecomunicaciones en Colombia. Aunque tiene una presencia importante a nivel nacional, su alcance no es global comparado con los proveedores de Nivel-1.
+        * ETB (Empresa de Telecomunicaciones de Bogotá):
+            - Clasificación: Puede clasificarse como Nivel-2 (Tier-2).
+            - Comentario: ETB es una empresa de telecomunicaciones en Colombia, principalmente centrada en Bogotá. Su alcance es más regional en comparación con los proveedores de Nivel-1.
