@@ -103,3 +103,14 @@ Factores internos:
         * Sin Establecimiento de Conexión Explícita: No hay una fase de  establecimiento de conexión antes de enviar datos.
         * Menos Control sobre la Secuencia de Datos: Los datos pueden llegar en un orden diferente al que se enviaron debido a rutas variables.
         Ejemplo: Internet es un ejemplo de red no orientada a la conexión, ya que los datos se dividen en paquetes y se envían independientemente, y pueden seguir rutas diferentes hacia su destino.
+
+7. Describa que es la calidad del servicio y que se necesita para mantener una buena calidad de servicio para las aplicaciones que lo requieren.
+
+    * Seguridad: Garantizar la integridad y confidencialidad de la información transmitida. Implementar medidas de seguridad como cifrado y autenticación para prevenir accesos no autorizados.
+    * Previsibilidad y Medición: Establecer parámetros que permitan medir y predecir el rendimiento de la red, esto incluye la capacidad de anticipar y gestionar la pérdida de paquetes, retrasos y otros aspectos que afectan la calidad de la transmisión.
+    * Garantía de Llegada o Entrega: Asegurar que los datos lleguen a su destino de manera oportuna y en el orden correcto, esto es especialmente crucial para aplicaciones sensibles al tiempo, como transmisiones de voz y video en vivo.
+    * Manejo de Congestión: Implementar mecanismos para gestionar el tráfico en situaciones de congestión. La congestión ocurre cuando la demanda de recursos supera la capacidad disponible, y se deben tomar medidas para evitar la pérdida de datos y mantener la fluidez de la red.
+    * Priorización de Tráfico: Clasificar y priorizar el tráfico en la red según la importancia y las necesidades de las aplicaciones, esto implica asignar niveles de prioridad a diferentes tipos de datos para garantizar que los servicios críticos reciban la atención adecuada.
+    * Administración de Recursos Limitados: Reconocer y trabajar con las limitaciones de recursos de red, como restricciones tecnológicas, costos y disponibilidad local de servicios de alto ancho de banda, esto puede implicar tomar decisiones estratégicas sobre la asignación de recursos en función de la importancia y las necesidades de las aplicaciones.
+    * Clasificación y Asignación de Prioridades: Clasificar aplicaciones en categorías según sus requisitos específicos de calidad de servicio. Asignar prioridades a diferentes tipos de comunicación basándose en la importancia relativa y las necesidades de la aplicación.
+    * Mecanismos de QoS: Implementar mecanismos de QoS que permitan establecer estrategias de administración de cola, asignar prioridades y gestionar la transmisión de datos, estos mecanismos pueden incluir técnicas como la clasificación, asignación de ancho de banda, y manejo de colas para garantizar un flujo eficiente de información.
