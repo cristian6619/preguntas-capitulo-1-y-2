@@ -52,3 +52,41 @@ Factores internos:
 
     D. ¿Qué es una red convergente?
         -> Es un tipo de ‘transporte’ de red para todo tipo de datos.
+
+5. Describir las características de las arquitecturas de red.
+
+    A. Tolerante a fallas, 
+        * Disponibilidad Continua: La red debe estar diseñada para estar siempre disponible, incluso si hay fallas en el hardware o el software.
+        * Recuperación Rápida: En caso de una falla, la red puede recuperarse rápidamente.
+        * Redundancia de enlaces y rutas: Se establecen enlaces y rutas duplicadas para crear redundancia.
+        * Enrutamiento Transparente: Cuando ocurre una falla, el sistema de enrutamiento garantiza que los mensajes se redirijan automáticamente por un camino alternativo.
+        * Adaptabilidad a la Redundancia: Tanto la infraestructura física como los procesos lógicos están diseñados para adaptarse a la redundancia.
+        * Diseño Robusto: Toda la arquitectura de la red se construye con robustez, lo que significa que puede resistir y recuperarse de posibles fallas sin comprometer la funcionalidad general.
+        * Mantenimiento de la comunicación: A pesar de las fallas, la red se asegura de mantener la comunicación entre los extremos.
+
+
+    B. Escalabilidad, 
+        * Expansión Rápida: La red tiene la capacidad de crecer de manera rápida y eficiente para acomodar a nuevos usuarios y aplicaciones sin afectar el servicio para los usuarios existentes.
+        * Diseño Jerárquico en Capas: La infraestructura física y la arquitectura lógica de la red están organizadas en capas jerárquicas donde cada capa tiene funciones específicas que permiten la integración de nuevos usuarios y proveedores de servicios sin causar interrupciones en la red.
+        * Flexibilidad para Nuevas Interconexiones: El diseño de la red permite la fácil incorporación de nuevos usuarios y proveedores de servicios que se conectan regularmente.
+        * Desarrollos Tecnológicos Constantes: Se incorporan avances tecnológicos de manera constante para mejorar la capacidad de transmitir mensajes y el rendimiento de los componentes físicos en cada capa de la infraestructura.
+        * Identificación y Localización Eficientes: La red utiliza nuevos métodos para identificar y localizar a usuarios individuales dentro de la internetwork.
+
+    C. Calidad del servicio,
+    * Expectativas Elevadas: Las nuevas aplicaciones generan expectativas más altas para la calidad de los servicios. Los usuarios esperan una experiencia equiparable a la de una interacción en persona, especialmente en transmisiones de voz y video en vivo.
+    * Necesidad de Calidad Consistente: Las transmisiones de voz y video en vivo requieren un nivel de calidad constante y una entrega ininterrumpida. A diferencia de las aplicaciones informáticas tradicionales, donde cierta variabilidad puede ser tolerada,
+    * Comparación con Presentación en Persona: La calidad de estos servicios se mide con la experiencia de presenciar una presentación de audio y video en persona.
+    * Diseño Tradicional de Redes de Voz y Video: Las redes tradicionales de voz y video están diseñadas para admitir un único tipo de transmisión y, por lo tanto, pueden producir un nivel aceptable de calidad, sin embargo, con la evolución hacia una red convergente, se requiere un ajuste en el enfoque de diseño.
+    * Adaptación para Redes Convergentes: La transición hacia una red convergente, donde voz, video y datos comparten la misma infraestructura, demanda cambios en la manera en que se diseñan e implementan las arquitecturas de red
+
+    D. Seguridad. Mostrar sus respectivos ejemplos. 
+        * Cambio en los Requerimientos de Seguridad: A medida que Internet evolucionó de una red controlada a un medio ampliamente accesible, los requerimientos de seguridad cambiaron, el aumento en la transmisión de comunicaciones personales y empresariales generó expectativas más altas en términos de privacidad y seguridad.
+        * Necesidad de Privacidad y Seguridad Mejorada: La utilización de internetworks para el intercambio de información empresarial crítica y confidencial ha generado expectativas de seguridad y privacidad que superan las capacidades de la arquitectura actual.
+        * Expansión de Áreas no Atendidas por Redes Tradicionales: La rápida expansión de áreas de comunicación no atendidas por las redes de datos tradicionales aumenta la necesidad de incorporar seguridad en la arquitectura de red para abordar nuevos desafíos y amenazas.
+        * Investigación y Desarrollo Dedicados: Se está dedicando un gran esfuerzo a la investigación y desarrollo en el campo de la seguridad de redes para adaptarse a las cambiantes demandas y amenazas.
+        * Implementación de Herramientas y Procedimientos: Para hacer frente a los defectos de seguridad inherentes en la arquitectura de red, se están implementando herramientas y procedimientos, esto incluye firewalls, sistemas de detección de intrusiones, cifrado de datos, autenticación fuerte, entre otros.
+
+        Ejemplos de Herramientas de Seguridad:
+        * Firewalls: Dispositivos que controlan y monitorean el tráfico entre redes, permitiendo o bloqueando ciertas comunicaciones.
+        * Sistemas de Detección de Intrusiones (IDS): Monitorean y responden a comportamientos anómalos en la red, identificando posibles ataques.
+        * Cifrado de Datos: Transforma la información legible en un formato codificado, asegurando que solo aquellos con la clave correcta puedan acceder a la información.
