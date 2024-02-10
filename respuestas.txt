@@ -18,3 +18,17 @@ Preguntas de lectura: Capítulo 1
 	* Bancas en línea para pagar productos o servicios.
 	* Entretenimiento como videojuegos en línea, streaming de música o video.
 	* Aprendizaje en línea. 
+
+2. Describir los factores que afectan la calidad de las comunicaciones.
+
+Factores externos
+    *Calidad de la ruta:  Rutas de baja calidad pueden causar pérdida de datos o retrasos en la entrega del mensaje del emisor hacia el receptor.
+    *Cambio de forma del mensaje: Cada vez que el mensaje tiene que atravesar un dispositivo o nodo en la red, es probable que este tenga que cambiar de formato para su interpretación, lo que ocasiona que la integridad y significado del mensaje original pueda verse comprometida.
+    *Redirección o redireccionamiento: La cantidad de veces que el mensaje tiene que ser redirigido o redireccionado en la red puede aumentar la posibilidad de pérdida de datos o distorsión del mensaje.
+    *Tráfico en la red de comunicación: La cantidad de mensajes simultáneos en la red puede afectar la velocidad y la eficiencia de la comunicación, un exceso de tráfico puede causar congestión y afectar negativamente la calidad de las comunicaciones.
+    *Tiempo asignado: Restricciones temporales pueden afectar la velocidad y la fiabilidad de la transmisión del mensaje, así como conllevar al fracaso en la entrega del mismo mensaje. 
+
+Factores internos:
+    *Tamaño del mensaje: Los mensajes grandes pueden enfrentar interrupciones o demoras en diferentes puntos de la red, la gestión del tamaño del mensaje es esencial para garantizar una transmisión eficiente.
+    *Complejidad del mensaje: Mensajes complejos pueden ser más propensos a malinterpretaciones en medio de los procesos de recepción de alguno de los dispositivos o nodos, la simplicidad y claridad en la comunicación contribuyen a una comprensión más efectiva.
+    *Importancia del mensaje: La relevancia y la prioridad del mensaje también son factores internos clave, mensajes importantes deben recibir una atención especial para asegurar una comprensión precisa.
