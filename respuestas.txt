@@ -221,3 +221,38 @@ Preguntas de lectura: Capítulo 2
         * Los servicios y procesos en los dispositivos finales e intermediarios aseguran una comunicación fluida y eficiente.
 
     En conjunto, estos componentes forman la estructura esencial de una red, proporcionando la plataforma para comunicaciones exitosas. La elección y configuración adecuada de dispositivos, medios y servicios son clave para establecer y mantener una red funcional y confiable.
+
+2. Comparar y contrastar los siguientes términos: RED, LAN, WAN, INTERNETWORK E INTERNET.
+
+    a. Red:
+        * Definición: Una infraestructura que permite la comunicación entre dispositivos conectados.
+        * Alcance: Puede referirse a cualquier conexión de dispositivos, independientemente de su tamaño o ubicación.
+
+    b. LAN (Red de Área Local):
+        * Definición: Una red que cubre un área geográfica pequeña, como una empresa, campus o región.
+        * Control: Administrada por una organización única.
+        Ejemplo: Red de computadoras en una oficina.
+
+    c. WAN (Red de Área Amplia):
+        * Definición: Interconecta LANs ubicadas en diferentes lugares geográficos, generalmente a través de un proveedor de servicios de telecomunicaciones (TSP).
+        * Control: Políticas de administración de LANs mantenidas por la organización, pero las políticas dentro de la red del proveedor de servicios son controladas por el TSP.
+        Ejemplo: Conexión de sucursales de una empresa a través de un proveedor de servicios.
+
+    d. Internetwork:
+        * Definición: Una malla global de redes interconectadas que cubre diversas necesidades de comunicación.
+        * Propiedad: Pertenecen a organizaciones públicas o privadas y están interconectadas para proporcionar acceso a nivel mundial.
+        Ejemplo: Internet, que es la interconexión de redes ISP.
+
+    e. Internet:
+        * Definición: La red de redes interconectadas a nivel mundial accesible al público en general.
+        * Propiedad: Redes pertenecientes a Proveedores de Servicios de Internet (ISP).
+        Ejemplo: Acceso global a recursos, servicios y comunicación.
+
+    Resumen:
+        - Red: Término general para cualquier conexión de dispositivos.
+        - LAN: Red local dentro de una área geográfica específica.
+        - WAN: Interconexión de LANs en ubicaciones geográficas separadas.
+        - Internetwork: Malla global de redes interconectadas.
+        - Internet: Red global accesible al público.
+
+    Estos términos se diferencian en su alcance geográfico, propiedad, acceso público o privado, y propósito específico de uso. Cada uno cumple un papel crucial en la conectividad y comunicación a diferentes escalas y contextos.
