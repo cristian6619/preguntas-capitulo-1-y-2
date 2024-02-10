@@ -256,3 +256,18 @@ Preguntas de lectura: Capítulo 2
         - Internet: Red global accesible al público.
 
     Estos términos se diferencian en su alcance geográfico, propiedad, acceso público o privado, y propósito específico de uso. Cada uno cumple un papel crucial en la conectividad y comunicación a diferentes escalas y contextos.
+
+3. ¿Cuál es la diferencia entre INTERNETWORK E INTERNET?
+
+    Internetwork: Se refiere a una malla global de redes interconectadas.
+    Características:
+        * Puede incluir redes pertenecientes a organizaciones públicas o privadas.
+        * Conecta diversas redes para satisfacer necesidades de comunicación.
+        Ejemplos incluyen redes privadas interconectadas para facilitar la comunicación entre diferentes entidades.
+
+    Internet: Se refiere específicamente a la red global y pública de redes interconectadas.
+    Características:
+        * Compuesta por redes pertenecientes a Proveedores de Servicios de Internet (ISP).
+        * Accesible al público en general.
+        * Ofrece servicios, recursos y comunicación a nivel mundial.
+
