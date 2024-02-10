@@ -276,3 +276,9 @@ Preguntas de lectura: Capítulo 2
     * La NIC es un componente de hardware en la computadora host.
     * El puerto físico es el conector en un dispositivo de red donde se conecta físicamente el cable de red.
     * La interfaz de red se refiere a los puertos especializados en dispositivos de internetworking, como routers, que permiten la conexión con redes individuales.
+
+5. ¿Por qué se dice que un protocolo es independiente de la tecnología? 
+
+    Un protocolo se considera "independiente de la tecnología" porque está diseñado para ser una especificación estándar que describe las reglas y el formato de las comunicaciones entre dispositivos, sin depender de la implementación técnica subyacente. Esto significa que el protocolo define cómo deben ser intercambiados los datos y cómo deben gestionarse las diferentes operaciones de red, pero no dicta los detalles específicos de la tecnología o hardware utilizados para lograr estas operaciones.
+    
+    Un protocolo independiente de la tecnología permite la interoperabilidad entre dispositivos y sistemas de diferentes fabricantes, siempre y cuando sigan la misma especificación de protocolo. Esta característica es esencial para lograr la comunicación efectiva en entornos heterogéneos, donde coexisten diversos tipos de dispositivos y tecnologías.
