@@ -114,3 +114,15 @@ Factores internos:
     * Administración de Recursos Limitados: Reconocer y trabajar con las limitaciones de recursos de red, como restricciones tecnológicas, costos y disponibilidad local de servicios de alto ancho de banda, esto puede implicar tomar decisiones estratégicas sobre la asignación de recursos en función de la importancia y las necesidades de las aplicaciones.
     * Clasificación y Asignación de Prioridades: Clasificar aplicaciones en categorías según sus requisitos específicos de calidad de servicio. Asignar prioridades a diferentes tipos de comunicación basándose en la importancia relativa y las necesidades de la aplicación.
     * Mecanismos de QoS: Implementar mecanismos de QoS que permitan establecer estrategias de administración de cola, asignar prioridades y gestionar la transmisión de datos, estos mecanismos pueden incluir técnicas como la clasificación, asignación de ancho de banda, y manejo de colas para garantizar un flujo eficiente de información.
+
+8. ¿Por qué importa la calidad del servicio en una red de datos? 
+
+    La calidad del servicio (QoS) es crucial en una red de datos, especialmente en el contexto de las nuevas aplicaciones y servicios que demandan niveles más altos de calidad, como se describe en el texto proporcionado. Aquí se detallan las razones por las cuales la QoS es de suma importancia:
+        * Satisfaccion del usuario
+        * Aplicaciones  sensibles al tiempo
+        * Adaptación a nuevos requerimientos
+        * Convergencia de redes
+        * Mantenimiento de la calidad en tiempo real
+        * Evitar interrupciones y pérdida de datos.
+        * Optimización de recursos
+    En resumen, la calidad del servicio en una red de datos es esencial para adaptarse a las crecientes expectativas de los usuarios, especialmente en el contexto de nuevas aplicaciones que demandan una experiencia de alta calidad. Garantizar una transmisión fluida y consistente es fundamental para la satisfacción del usuario y el rendimiento óptimo de la red.
