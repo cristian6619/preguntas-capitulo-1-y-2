@@ -168,3 +168,24 @@ Factores internos:
         * ETB (Empresa de Telecomunicaciones de Bogotá):
             - Clasificación: Puede clasificarse como Nivel-2 (Tier-2).
             - Comentario: ETB es una empresa de telecomunicaciones en Colombia, principalmente centrada en Bogotá. Su alcance es más regional en comparación con los proveedores de Nivel-1.
+
+11. Investiga sobre la importancia de los proveedores de Internet de Nivel-1 y Nivel-2 en la conectividad global, incluyendo su papel en la transmisión de datos a través de Internet. 
+
+    1. Proveedores de Nivel-1 (Tier-1):
+        * Conectividad Global Directa: Los proveedores de Nivel-1 poseen infraestructuras de red global, con conexiones directas a otros proveedores de Nivel-1. Esto les permite establecer relaciones de peering directo, intercambiando tráfico sin la necesidad de pagar por el tránsito.
+        * Reducción de Latencia y Mejora de la Eficiencia: Al tener conexiones directas con otros proveedores globales, los proveedores de Nivel-1 pueden enrutar el tráfico de manera eficiente, reduciendo la latencia y mejorando la velocidad de transmisión de datos a nivel mundial.
+        * Independencia en la Conectividad: Al no depender de otros proveedores para acceder a destinos globales, los proveedores de Nivel-1 tienen mayor independencia en la conectividad global. Esto mejora la estabilidad y confiabilidad de la red.
+        * Rol en la Jerarquía de Internet: Los proveedores de Nivel-1 desempeñan un papel fundamental en la jerarquía de Internet al ser considerados los "backbones" principales. Su infraestructura es esencial para la transmisión eficiente de datos a nivel mundial.
+
+    2. Proveedores de Nivel-2 (Tier-2):
+        * Alcance Regional y Nacional: Los proveedores de Nivel-2 tienen un alcance más limitado en comparación con los proveedores de Nivel-1. Se centran principalmente en regiones o países específicos.
+        * Dependencia en Acuerdos de Tránsito: Los proveedores de Nivel-2 pueden depender de acuerdos de tránsito con proveedores de Nivel-1 para llegar a destinos fuera de su red principal. Pueden tener que pagar por el tráfico que envían a través de redes de Nivel-1.
+        * Conectividad a Nivel Nacional: Aunque tienen un alcance limitado globalmente, los proveedores de Nivel-2 desempeñan un papel crucial en proporcionar conectividad a nivel nacional. Son fundamentales para la infraestructura de Internet en regiones específicas.
+        * Contribución a la Distribución del Tráfico: Los proveedores de Nivel-2 contribuyen a distribuir el tráfico a nivel local y nacional. Esto ayuda a mejorar la eficiencia en la entrega de datos a usuarios dentro de su área de operación.
+
+    En Conjunto:
+        * Interconexión y Colaboración: La colaboración entre proveedores de Nivel-1 y Nivel-2 es esencial para la conectividad global. Los acuerdos de peering y tránsito permiten una red interconectada que abarca diferentes niveles de la jerarquía.
+        * Resiliencia y Redundancia: La presencia de proveedores de diferentes niveles contribuye a la resiliencia y redundancia de la red global. En caso de fallas o congestiones, la red puede adaptarse utilizando rutas alternativas.
+        * Soporte a la Expansión de Internet: Ambos niveles de proveedores son vitales para la expansión y desarrollo continuo de Internet. Proporcionan la infraestructura necesaria para satisfacer la creciente demanda de conectividad global.
+
+    En resumen, la interacción entre proveedores de Nivel-1 y Nivel-2 es esencial para la conectividad global, facilitando la transmisión eficiente de datos y contribuyendo al funcionamiento y expansión de Internet a nivel mundial.
