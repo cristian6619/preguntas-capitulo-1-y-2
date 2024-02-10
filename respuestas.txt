@@ -12,3 +12,9 @@ Responder las preguntas de la lectura y enviarlas en PDF.
 Preguntas de lectura: Capítulo 1
 
 1. Listar al menos 5 actividades cotidianas que realiza usted utilizando internet.
+
+    * Comunicación por mensajes instantáneos, video llamadas y correos electrónicos.
+	* Navegación  web para búsqueda de información, exploración de sitios web entre otros.
+	* Bancas en línea para pagar productos o servicios.
+	* Entretenimiento como videojuegos en línea, streaming de música o video.
+	* Aprendizaje en línea. 
