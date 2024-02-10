@@ -196,3 +196,28 @@ Factores internos:
     En términos de equidad, una regulación efectiva puede promover el acceso universal, tarifas asequibles, neutralidad de la red y programas de inclusión digital. Esto asegura que el acceso a Internet no esté limitado por barreras económicas y que se fomente la participación inclusiva.
     En cuanto a la eficiencia, la regulación que fomente la competencia, la innovación y el despliegue de tecnologías avanzadas mejora la calidad del servicio y la experiencia del usuario. Abordar cuestiones de seguridad y privacidad también es crucial para mantener la eficiencia y confiabilidad.
     Desafíos incluyen encontrar un equilibrio adecuado en la regulación, adaptarse a cambios tecnológicos y garantizar la participación y transparencia en la toma de decisiones regulatorias. Un enfoque equitativo en la regulación puede contribuir a una infraestructura digital global inclusiva, accesible y eficiente para todos.
+
+___________________________________
+
+Preguntas de lectura: Capítulo 2
+
+1. Describir la estructura de una red, incluidos los dispositivos, medios y servicios necesarios para lograr comunicaciones exitosas. 
+
+    Una red, que puede ser tan simple como la conexión directa entre dos dispositivos o tan compleja como una infraestructura global, se compone de diversos elementos que facilitan las comunicaciones, estos elementos incluyen dispositivos, medios y servicios.
+
+    a. Dispositivos:
+        * Dispositivos Finales (Hosts): Son los dispositivos con los que los usuarios interactúan directamente, como computadoras, impresoras de red, teléfonos VoIP y dispositivos móviles. Cada host se identifica por una dirección única en la red.
+        * Dispositivos Intermediarios: Conectan hosts a la red y aseguran el flujo de datos. Ejemplos incluyen hubs, switches, puntos de acceso inalámbricos, routers, servidores de comunicación y módems. También hay dispositivos de seguridad como firewalls.
+
+    b. Medios de Red:
+        * Hilos Metálicos, Fibra Óptica y Transmisión Inalámbrica: Estos son los canales a través de los cuales se transmiten los datos. Los hilos metálicos utilizan impulsos eléctricos, las fibras ópticas dependen de pulsos de luz y la transmisión inalámbrica utiliza patrones de ondas electromagnéticas. La elección del medio se basa en criterios como la distancia de transmisión, el entorno, la velocidad y el costo.
+
+    c. Servicios y Procesos:
+        * Servicios de Red: Son programas (software) que ejecutan funciones específicas en los dispositivos conectados. Incluyen servicios de e-mail hosting y web hosting, proporcionando información en respuesta a solicitudes.
+        * Procesos de Red: Funciones menos visibles pero críticas para el funcionamiento de la red. Realizan tareas como regenerar y retransmitir señales, mantener información sobre las rutas de la red, notificar errores y fallas, direccionar datos por rutas alternativas en caso de fallas y clasificar mensajes según prioridades de calidad de servicio (QoS).
+
+    Estructura y Funcionamiento: 
+        * Los dispositivos intermediarios gestionan la administración de datos y determinan las rutas que deben seguir los mensajes a través de la red.
+        * Los servicios y procesos en los dispositivos finales e intermediarios aseguran una comunicación fluida y eficiente.
+
+    En conjunto, estos componentes forman la estructura esencial de una red, proporcionando la plataforma para comunicaciones exitosas. La elección y configuración adecuada de dispositivos, medios y servicios son clave para establecer y mantener una red funcional y confiable.
