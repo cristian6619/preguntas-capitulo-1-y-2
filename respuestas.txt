@@ -4,7 +4,7 @@ UNIVERSIDAD DEL CAUCA
 
 FECHA: 09/02/24
 NOMBRE: Cristian Camilo Diaz Rodriguez	
-CÓDIGO SIMCA: 
+CÓDIGO SIMCA: 104617011216
 
 Leer los capítulos 1 y 2 del curso de Cisco.
 Responder las preguntas de la lectura y enviarlas en PDF.
